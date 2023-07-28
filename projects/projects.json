@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Weather App",
+    "desc": "Rapid API project that provides real-time weather data and forecasts for locations worldwide.",
+    "image": "instagrammern",
+    "category": "Rapid API",
+    "links": {
+      "view": "https://weather-array.netlify.app/",
+      "code": "https://github.com/mstm-63/Weather-App.git"
+    }
+  },
+  {
+    "name": "Hotel Menu",
+    "desc": "Creating a React project for an interactive hotel menu that showcases available dishes, prices, and descriptions.",
+    "image": "flipkartmern",
+    "category": "react",
+    "links": {
+      "view": "https://set-menu.netlify.app/",
+      "code": "https://github.com/mstm-63/Hotel-Menu.git"
+    }
+  },
+  {
+    "name": "Digital Clock",
+    "desc": "Building a JavaScript project for a dynamic digital clock that displays the current time accurately.",
+    "image": "resumegen",
+    "category": "js",
+    "links": {
+      "view": "https://digital-hours.netlify.app/",
+      "code": "https://github.com/mstm-63/Digital-Clock.git"
+    }
+  },
+  {
+    "name": "ANIME GENERATOR",
+    "desc": "Developing a JavaScript project for an anime generator that generates random anime character image.",
+    "image": "reactprojects",
+    "category": "js",
+    "links": {
+      "view": "https://animatronics-generator.netlify.app/",
+      "code": "https://github.com/mstm-63/Anime-Generator.git"
+    }
+  },
+  {
+    "name": "Canteen",
+    "desc": "Designing a responsive CSS project for a hotel website that adapts seamlessly to different screen sizes and devices.",
+    "image": "flipkartphp",
+    "category": "CSS",
+    "links": {
+      "view": "https://inn.netlify.app/",
+      "code": "https://github.com/mstm-63/chef-on-fire.git"
+    }
+  },
+  {
+    "name": "FB LOGIN PAGE CLONE",
+    "desc": "Tailwind project that closely replicates the design and functionality of the Facebook login page.",
+    "image": "jspro",
+    "category": "tailwind",
+    "links": {
+      "view": "https://gain-access.netlify.app/",
+      "code": "https://github.com/mstm-63/fb-login-Clone.git"
+    }
+  }
+]
